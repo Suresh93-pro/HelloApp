@@ -1,5 +1,3 @@
-package com.helloapp;
-
 public class Helloapp2 {
     
 
